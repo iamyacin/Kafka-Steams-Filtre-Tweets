@@ -1,2 +1,2 @@
-# Kafka-Steams-Filtre-Tweets
+# Kafka-Steams-Tweets-To-ElasticSearch
 This is a kafka streams job to filtre & Classify crypto tweets from the raw topic to ElasticSearch Index.
